@@ -33,36 +33,7 @@ Portfolio_README.md                      ← Use as your GitHub main README
 └─ START_HERE.md                        ← This file
 ```
 
-**Total Size:** ~150 KB (highly portable)
 
----
-
-## Quick Start (5 Minutes)
-
-### Step 1: Download Files
-✅ All 9 files are ready in `/mnt/user-data/outputs/`
-
-### Step 2: Create GitHub Repository
-1. Go to **github.com**
-2. Click **"+" → "New repository"**
-3. Name: `market-research-portfolio`
-4. Visibility: **Public**
-5. Click **"Create repository"**
-
-### Step 3: Upload Files
-1. In GitHub repo, click **"Add file" → "Upload files"**
-2. Upload all 9 markdown files
-3. Commit with message: "Initial portfolio upload"
-
-### Step 4: Share with Recruiters
-1. Copy your repo URL: `github.com/yourname/market-research-portfolio`
-2. Add to LinkedIn: Update "Websites" section
-3. Update LinkedIn headline: "Market Research Analyst | Portfolio: [your repo link]"
-
-**Time Required:** 15 minutes  
-**Result:** Live, recruiter-discoverable portfolio
-
----
 
 ## What Each File Does
 
@@ -75,30 +46,6 @@ Portfolio_README.md                      ← Use as your GitHub main README
 | **QUICK_REFERENCE.md** | Project summaries & tips | Interview preparation |
 | **START_HERE.md** | This file | Getting started |
 
----
-
-## How Recruiters Will Use Your Portfolio
-
-### Pass 1 (30 seconds)
-- Read README headline
-- Scan featured projects
-- Check if they match their open role
-
-### Pass 2 (2-3 minutes)
-- Read one case study Executive Summary
-- Check your CAGR/growth rates
-- Verify relevant industries
-
-### Pass 3 (If interested, 10-15 minutes)
-- Deep dive on 1-2 full case studies
-- Review methodology and insights
-- Check competitive benchmarking
-- Assess business impact thinking
-
-**Bottom Line:** Your portfolio must work at all three levels. ✅ This one does.
-
----
-
 ## Key Portfolio Strengths
 
 ### ✅ Demonstrates Real Skills
@@ -107,25 +54,6 @@ Portfolio_README.md                      ← Use as your GitHub main README
 - **Segmentation:** Multi-dimensional breakdown
 - **Insight Generation:** "So what" business thinking
 - **Geographic Expertise:** 50+ countries analyzed
-
-### ✅ Authentic & Defensible
-- All case studies based on your actual work
-- Confidential data properly anonymized
-- Methodology is transparent and rigorous
-- No fabrication; everything can be discussed in interviews
-
-### ✅ ATS-Optimized
-- Keywords naturally incorporated
-- Recruiter-searchable on GitHub
-- Professional consulting-style writing
-- Clear, compelling narrative structure
-
-### ✅ Interview-Ready
-- Detailed case studies provide rich interview material
-- "So what" insights demonstrate strategic thinking
-- Methodology shows analytical rigor
-- Competitive benchmarking shows business acumen
-
 ---
 
 ## Your Competitive Advantages
